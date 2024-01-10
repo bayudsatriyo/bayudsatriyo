@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayu Dwi Satriyo</h1>
-<h3 align="center">Let me introduce myself, Bayu Dwi Satriyo, a student at Sahid University, Surakarta. The field that I am currently working on is Backend and Front end web</h3>
+<h3 align="center">Let me introduce myself, Bayu Dwi Satriyo, Im a student at Sahid University, Surakarta. The field that I am currently working on is Backend and Front end web</h3>
 
 - 🌱 I’m currently learning **React Typescript**
 
