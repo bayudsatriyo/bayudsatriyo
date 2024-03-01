@@ -20,7 +20,7 @@
 <a href="https://instagram.com/bayudsatriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bayudsatriyo" height="30" width="40" /></a>
 </p>
 
-<h3>My Portofolio Website : <a href="https://www.bayudsatriyo.my.id/" target="_blank">bayudsatriyo.my.id</a></h3>
+<h3>My Portofolio Website : <a href="https://bayudsatriyo.vercel.app/" target="_blank">bayudsatriyo</a></h3>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
