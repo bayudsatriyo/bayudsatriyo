@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **GO**
 
-- ⚡ Fun fact **I think I am the villain in my life story**
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/bayudsatriyo">
