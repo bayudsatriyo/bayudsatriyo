@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bayu Dwi Satriyo</h1>
+<h1 align="center">👋 Hello World! I'm Bayu Dwi Satriyo, S.Kom.</h1>
 <h3 align="center">
-  👋 Hello World! I'm Bayu Dwi Satriyo, S.Kom. <br><br>
   A fresh graduate in Computer Science from Sahid University, Surakarta <br>
   Specializing in Full Stack Web Development with passion for both Backend and Frontend technologies
 </h3>
