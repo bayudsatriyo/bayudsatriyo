@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bayu Dwi Satriyo</h1>
-<h3 align="center">Let me introduce myself, Bayu Dwi Satriyo, Im a student at Sahid University, Surakarta. The field that I am currently working on is Backend and Front end web</h3>
+<h3 align="center">
+  👋 Hello World! I'm Bayu Dwi Satriyo, S.Kom. <br><br>
+  A fresh graduate in Computer Science from Sahid University, Surakarta <br>
+  Specializing in Full Stack Web Development with passion for both Backend and Frontend technologies
+</h3>
 
 - 🌱 I’m currently learning **GO**
 
